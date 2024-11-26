@@ -6,13 +6,17 @@ USER_FILE="users.txt"
 # Function to display the login page
 login_page() {
     clear
-    echo "====================================="
+    echo "========================================================"
     echo "         Welcome to Termux Custom login environment     "
-    echo "====================================="
+    echo "========================================================"
     echo
-    echo "   Secure your terminal environment with a custom interface and built in Hacking Tools    For educational Purposes   "
+    echo "              • Secure your terminal environment        "
+    echo "              • with a custom interface                 "
+    echo "              • built in Hacking Tools & more!          "
+    echo "                 
+    echo "           For educational Purposes Only   
     echo
-    echo "====================================="
+    echo "========================================================"
     echo
 
     # Prompt for login or register
